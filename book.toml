@@ -1,0 +1,6 @@
+[book]
+authors = ["michaelmusty"]
+language = "en"
+multilingual = false
+src = "src"
+title = "lantern"
